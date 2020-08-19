@@ -1,0 +1,751 @@
+[33mcommit 43bdd72013a8ca243a0a30f65d7a8af656259a07[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Obed Muñoz <obed.n.munoz@gmail.com>
+Date:   Mon Aug 10 23:37:14 2020 -0500
+
+    Update first challenge
+    
+    Signed-off-by: Obed Muñoz <obed.n.munoz@gmail.com>
+
+[33mcommit f2a33cb106bcf8ed3b42d0113e8d803aef680ed2[m
+Author: Obed Muñoz <obed.n.munoz@gmail.com>
+Date:   Mon Aug 10 20:36:16 2020 -0500
+
+    Update submission instructions
+    
+    Signed-off-by: Obed Muñoz <obed.n.munoz@gmail.com>
+
+[33mcommit 24dabba1407d7e4591c724c68aa1b7445bf03b6d[m
+Author: Obed N Munoz <obed.n.munoz@gmail.com>
+Date:   Tue May 19 18:30:06 2020 -0500
+
+    Update Final Challenges
+    
+    Signed-off-by: Obed N Munoz <obed.n.munoz@gmail.com>
+
+[33mcommit ef2a96ef7b106f42e660acda69e50ed52f1066cd[m[33m ([m[1;33mtag: 2020.a[m[33m)[m
+Author: Obed Muñoz <obed.n.munoz@gmail.com>
+Date:   Sun May 3 21:42:43 2020 -0500
+
+    Update makefile
+    
+    Signed-off-by: Obed Muñoz <obed.n.munoz@gmail.com>
+
+[33mcommit 823d2370dcaf89c221dccbe2485cb491ad46f2b5[m
+Author: Obed Muñoz <obed.n.munoz@gmail.com>
+Date:   Tue Apr 28 19:43:37 2020 -0500
+
+    Update second partial
+    
+    Signed-off-by: Obed Muñoz <obed.n.munoz@gmail.com>
+
+[33mcommit 607500f98688565142fad4eb76d3b7cec766dc6a[m
+Author: Obed Muñoz <obed.n.munoz@gmail.com>
+Date:   Tue Apr 21 18:24:51 2020 -0500
+
+    Update instructions
+    
+    Signed-off-by: Obed Muñoz <obed.n.munoz@gmail.com>
+
+[33mcommit 2fba2cf0fdbc1ff0292472a8d3940e84d341a887[m
+Author: Obed Muñoz <obed.n.munoz@gmail.com>
+Date:   Mon Apr 20 23:33:10 2020 -0500
+
+    Update Classify Instructions
+    
+    Signed-off-by: Obed Muñoz <obed.n.munoz@gmail.com>
+
+[33mcommit 4a345fe20ab9975519b7ff98ff4b3a6cf6f719fc[m
+Author: Obed Muñoz <obed.n.munoz@gmail.com>
+Date:   Mon Apr 20 23:04:28 2020 -0500
+
+    Update progress notifier lab
+    
+    Signed-off-by: Obed Muñoz <obed.n.munoz@gmail.com>
+
+[33mcommit 1187f4b6cd45a01b1bdb572b2fc5e27085a4ca58[m
+Author: Obed Muñoz <obed.n.munoz@gmail.com>
+Date:   Mon Apr 20 22:59:23 2020 -0500
+
+    Update file-dir-monitor
+    
+    Signed-off-by: Obed Muñoz <obed.n.munoz@gmail.com>
+
+[33mcommit 6c7fdc5aa72bd8cedd7b4dd99e434de8537202c2[m
+Author: Obed Muñoz <obed.n.munoz@gmail.com>
+Date:   Tue Mar 24 18:01:10 2020 -0600
+
+    Update labs
+    
+    Signed-off-by: Obed Muñoz <obed.n.munoz@gmail.com>
+
+[33mcommit e032d23d078f23ce4c2a4c9887d71697e30528f8[m
+Author: Obed Muñoz <obed.n.munoz@gmail.com>
+Date:   Tue Mar 10 16:14:15 2020 -0600
+
+    Update makefile automation
+    
+    Signed-off-by: Obed Muñoz <obed.n.munoz@gmail.com>
+
+[33mcommit 176d12e50bb8c98b3a33c08f5ea2526b7b23d54d[m
+Author: Obed Muñoz <obed.n.munoz@gmail.com>
+Date:   Tue Mar 10 15:58:21 2020 -0600
+
+    Update labs
+    
+    Signed-off-by: Obed Muñoz <obed.n.munoz@gmail.com>
+
+[33mcommit 14477d376b23bbf99ed631c1863570486eaf4ab9[m
+Author: Obed Muñoz <obed.n.munoz@gmail.com>
+Date:   Tue Mar 10 15:42:03 2020 -0600
+
+    Update mycat lab
+    
+    Signed-off-by: Obed Muñoz <obed.n.munoz@gmail.com>
+
+[33mcommit 38e3b95e8bf77419a5c6ef844de35bb6cf892fb7[m
+Author: Obed Muñoz <obed.n.munoz@gmail.com>
+Date:   Tue Mar 3 17:10:46 2020 -0600
+
+    Update labs
+    
+    Signed-off-by: Obed Muñoz <obed.n.munoz@gmail.com>
+
+[33mcommit 15d26a3e10e63b8ac96d9a9453b336407f320f15[m
+Author: Obed Muñoz <obed.n.munoz@gmail.com>
+Date:   Tue Feb 25 13:09:36 2020 -0600
+
+    Update labs
+    
+    Signed-off-by: Obed Muñoz <obed.n.munoz@gmail.com>
+
+[33mcommit f89edb8805023f726b80e6c0227f79d3fe554caf[m
+Author: Obed Muñoz <obed.n.munoz@gmail.com>
+Date:   Tue Feb 18 15:14:26 2020 -0600
+
+    Update instructions
+    
+    Signed-off-by: Obed Muñoz <obed.n.munoz@gmail.com>
+
+[33mcommit 2ddd0a5b458e9f4abb207d2ede18f1d21e6dbee8[m
+Author: Obed Muñoz <obed.n.munoz@gmail.com>
+Date:   Tue Feb 18 14:51:53 2020 -0600
+
+    Update Labs
+    
+    Signed-off-by: Obed Muñoz <obed.n.munoz@gmail.com>
+
+[33mcommit ac92e2b4cadbfe64520d65b573fc9b16ab9a01bf[m
+Author: Obed Muñoz <obed.n.munoz@gmail.com>
+Date:   Wed Feb 12 16:12:23 2020 -0600
+
+    Add support for token and class id
+    
+    Signed-off-by: Obed Muñoz <obed.n.munoz@gmail.com>
+
+[33mcommit 1879bf7d239737ae296e1de2b8c7b9f610840c5e[m
+Author: Obed Muñoz <obed.n.munoz@gmail.com>
+Date:   Wed Jan 22 00:44:50 2020 -0600
+
+    Add support for classify api tokens
+    
+    Signed-off-by: Obed Muñoz <obed.n.munoz@gmail.com>
+
+[33mcommit 23e9f5309c2a049769ecdd729c14170d1867657e[m
+Author: Obed N Munoz <obed.n.munoz@gmail.com>
+Date:   Tue Nov 19 20:27:25 2019 -0600
+
+    Update openmp lab
+    
+    Signed-off-by: Obed N Munoz <obed.n.munoz@gmail.com>
+
+[33mcommit d8d889b7c00dc072ae22725d01a534059b358004[m
+Author: Obed N Munoz <obed.n.munoz@gmail.com>
+Date:   Tue Nov 12 15:44:20 2019 -0600
+
+    Update pthreads labs
+    
+    Signed-off-by: Obed N Munoz <obed.n.munoz@gmail.com>
+
+[33mcommit 3486d2e7daa2c162902809406dc62192c2e9acda[m
+Author: Obed N Munoz <obed.n.munoz@gmail.com>
+Date:   Tue Nov 5 01:01:15 2019 -0600
+
+    Fix typo
+    
+    Signed-off-by: Obed N Munoz <obed.n.munoz@gmail.com>
+
+[33mcommit 387ebda37abd884b57e16dbd016593134bf040f0[m
+Author: Obed N Munoz <obed.n.munoz@gmail.com>
+Date:   Sun Oct 27 16:49:45 2019 -0600
+
+    Add missing makefile
+    
+    Signed-off-by: Obed N Munoz <obed.n.munoz@gmail.com>
+
+[33mcommit e496fa2c11ab7d36761d4415ed1f72924424e526[m
+Author: Obed N Munoz <obed.n.munoz@gmail.com>
+Date:   Fri Oct 25 23:33:13 2019 -0500
+
+    Update optional instructions
+    
+    Signed-off-by: Obed N Munoz <obed.n.munoz@gmail.com>
+
+[33mcommit 576ed7111773c485822398d8186fc57b8e68732d[m
+Author: Obed N Munoz <obed.n.munoz@gmail.com>
+Date:   Tue Oct 22 14:18:48 2019 -0500
+
+    Update challenges
+    
+    Signed-off-by: Obed N Munoz <obed.n.munoz@gmail.com>
+
+[33mcommit c37c83c304126f147792c35f97445c178ee2f322[m
+Author: Obed N Munoz <obed.n.munoz@gmail.com>
+Date:   Tue Oct 22 13:26:38 2019 -0500
+
+    Add a new challenge
+    
+    Signed-off-by: Obed N Munoz <obed.n.munoz@gmail.com>
+
+[33mcommit 15cafb6dd2ae6e7d04d0179e818bf214aa944ac0[m
+Author: Obed N Munoz <obed.n.munoz@gmail.com>
+Date:   Tue Oct 22 09:26:39 2019 -0500
+
+    Change to a more current and supported signal
+    
+    Signed-off-by: Obed N Munoz <obed.n.munoz@gmail.com>
+
+[33mcommit 35700d7025b556d34c52f54a40a299240f2ba506[m
+Author: Obed N Munoz <obed.n.munoz@gmail.com>
+Date:   Tue Oct 15 20:43:50 2019 -0500
+
+    Fix instructions
+    
+    Signed-off-by: Obed N Munoz <obed.n.munoz@gmail.com>
+
+[33mcommit 672f81eba853007addcebd304ed3907ea1fd81ce[m
+Author: Obed N Munoz <obed.n.munoz@gmail.com>
+Date:   Tue Oct 15 16:55:02 2019 -0500
+
+    Update Web Crawler lab
+    
+    Signed-off-by: Obed N Munoz <obed.n.munoz@gmail.com>
+
+[33mcommit 70b5960072cf7f9de3241594d3e08bd8ede69a8e[m
+Author: Obed N Munoz <obed.n.munoz@gmail.com>
+Date:   Tue Oct 15 16:49:47 2019 -0500
+
+    Update clockwall lab
+    
+    Signed-off-by: Obed N Munoz <obed.n.munoz@gmail.com>
+
+[33mcommit aec2b79dd6d08c6f23b657cee49dd5e105a073dc[m
+Author: Obed N Munoz <obed.n.munoz@gmail.com>
+Date:   Sat Oct 12 20:16:32 2019 -0500
+
+    Add missing submission target
+    
+    Signed-off-by: Obed N Munoz <obed.n.munoz@gmail.com>
+
+[33mcommit 47ad492fc326f69134f378a602f724c4478de125[m
+Author: Obed N Munoz <obed.n.munoz@gmail.com>
+Date:   Mon Oct 7 22:33:22 2019 -0500
+
+    Update labs
+    
+    Signed-off-by: Obed N Munoz <obed.n.munoz@gmail.com>
+
+[33mcommit 331e202bc315215f4bce7d49de4f6a0d50e8bfc5[m
+Author: Obed N Munoz <obed.n.munoz@gmail.com>
+Date:   Tue Oct 1 18:04:33 2019 -0500
+
+    Fix git branch command
+    
+    Signed-off-by: Obed N Munoz <obed.n.munoz@gmail.com>
+
+[33mcommit 0337ccf01a90f31df0e4c6f1dee440a757029ed9[m
+Author: Obed N Munoz <obed.n.munoz@gmail.com>
+Date:   Mon Sep 30 23:10:02 2019 -0500
+
+    Update logger labs
+    
+    Signed-off-by: Obed N Munoz <obed.n.munoz@gmail.com>
+
+[33mcommit 257b76bed87a777e24b4486f0eb100e54858d5a2[m
+Author: Obed N Munoz <obed.n.munoz@gmail.com>
+Date:   Mon Sep 30 20:18:51 2019 -0500
+
+    Update submission instructions
+    
+    Signed-off-by: Obed N Munoz <obed.n.munoz@gmail.com>
+
+[33mcommit c1c68d2b737ff6db9f727d803b9ac61829e8db8b[m
+Author: Obed N Munoz <obed.n.munoz@gmail.com>
+Date:   Mon Sep 30 19:23:25 2019 -0500
+
+    Add branch support on submit
+    
+    Signed-off-by: Obed N Munoz <obed.n.munoz@gmail.com>
+
+[33mcommit 9f56319a87ae3fffb8399f9183b1be7874d0c661[m
+Author: Obed N Munoz <obed.n.munoz@gmail.com>
+Date:   Sun Sep 22 22:22:53 2019 -0500
+
+    Add second patch for user's data gathering in labs
+    
+    Signed-off-by: Obed N Munoz <obed.n.munoz@gmail.com>
+
+[33mcommit 421b5a33d761c4434eb7581df00fb44b1e2841bc[m
+Author: Obed N Munoz <obed.n.munoz@gmail.com>
+Date:   Sun Sep 22 22:15:10 2019 -0500
+
+    Fix new endpoint for user's data gathering
+    
+    Signed-off-by: Obed N Munoz <obed.n.munoz@gmail.com>
+
+[33mcommit 15f4dc1c60819d72a69edd52dc344653ca616faf[m
+Author: Obed N Munoz <obed.n.munoz@gmail.com>
+Date:   Tue Sep 17 20:21:54 2019 -0500
+
+    Rename log file
+    
+    Signed-off-by: Obed N Munoz <obed.n.munoz@gmail.com>
+
+[33mcommit f83f060e7dafeeeb32c0bcf719860f80814e7d91[m
+Author: Obed N Munoz <obed.n.munoz@gmail.com>
+Date:   Tue Sep 17 16:47:18 2019 -0500
+
+    Upload first partial exam
+    
+    Signed-off-by: Obed N Munoz <obed.n.munoz@gmail.com>
+
+[33mcommit 745368591b6d3d87e7719ff931a647ec50d1f17f[m
+Author: Obed N Munoz <obed.n.munoz@gmail.com>
+Date:   Tue Sep 10 00:18:26 2019 -0500
+
+    Add new go-based lab
+    
+    Signed-off-by: Obed N Munoz <obed.n.munoz@gmail.com>
+
+[33mcommit cffe09ef0143dfed7d4bac7d00e61bde16db767f[m
+Author: Obed N Munoz <obed.n.munoz@gmail.com>
+Date:   Mon Sep 9 23:05:19 2019 -0500
+
+    Remove book's related lab
+    
+    Signed-off-by: Obed N Munoz <obed.n.munoz@gmail.com>
+
+[33mcommit 9e93cf2b316ee3bb1aadf474210a3bd3b5a8527b[m
+Author: Obed N Munoz <obed.n.munoz@gmail.com>
+Date:   Mon Sep 9 23:03:40 2019 -0500
+
+    Rephrase golang slices and maps lab
+    
+    Signed-off-by: Obed N Munoz <obed.n.munoz@gmail.com>
+
+[33mcommit 30a5a438a891c4a255e2ee7a7767a2a382ab512b[m
+Author: Obed N Munoz <obed.n.munoz@gmail.com>
+Date:   Mon Sep 9 22:38:55 2019 -0500
+
+    Add shell into the Makefiles
+    
+    Signed-off-by: Obed N Munoz <obed.n.munoz@gmail.com>
+
+[33mcommit f0ff73f83d08cb2fb2514d45b30234a2883d11f6[m
+Author: Obed N Munoz <obed.n.munoz@gmail.com>
+Date:   Tue Sep 3 10:25:43 2019 -0500
+
+    Add new lab
+    
+    Signed-off-by: Obed N Munoz <obed.n.munoz@gmail.com>
+
+[33mcommit eeb2dd7964afdf5d8212a0a48486e9e39fe8694d[m
+Author: Obed N Munoz <obed.n.munoz@gmail.com>
+Date:   Mon Sep 2 22:34:52 2019 -0500
+
+    Add check submission feature in Makefile
+    
+    Signed-off-by: Obed N Munoz <obed.n.munoz@gmail.com>
+
+[33mcommit 6ad7b4d6b10de1f937815e611e6270df4f84e59b[m
+Author: Obed N Munoz <obed.n.munoz@gmail.com>
+Date:   Mon Sep 2 21:55:32 2019 -0500
+
+    Update str-lib lab
+    
+    Signed-off-by: Obed N Munoz <obed.n.munoz@gmail.com>
+
+[33mcommit f3b272d90aa34b29ad2cf3a577e7efe437f5267c[m
+Author: Obed N Munoz <obed.n.munoz@gmail.com>
+Date:   Mon Sep 2 21:31:41 2019 -0500
+
+    Add month day lab
+    
+    Signed-off-by: Obed N Munoz <obed.n.munoz@gmail.com>
+
+[33mcommit 6bfc71149cf13ce388ea079f932980d4e16a910c[m
+Author: Obed N Munoz <obed.n.munoz@gmail.com>
+Date:   Mon Sep 2 21:31:41 2019 -0500
+
+    Add month day lab
+    
+    Signed-off-by: Obed N Munoz <obed.n.munoz@gmail.com>
+
+[33mcommit d5dfba1ea4da35632552f327d70a6f3e6f5ef33c[m
+Author: Obed N Munoz <obed.n.munoz@gmail.com>
+Date:   Mon Sep 2 21:06:18 2019 -0500
+
+    Add c-basics lab
+    
+    Signed-off-by: Obed N Munoz <obed.n.munoz@gmail.com>
+
+[33mcommit 0966da1c12867cdb1d00012aeaa8b1436fcf2545[m
+Author: Obed N Munoz <obed.n.munoz@tec.mx>
+Date:   Tue Aug 20 20:49:42 2019 -0500
+
+    Update makefile
+    
+    Signed-off-by: Obed N Munoz <obed.n.munoz@tec.mx>
+
+[33mcommit 1cb58d7a7c585a62d9aa343a0751145e04e878b5[m
+Author: Obed N Munoz <obed.n.munoz@gmail.com>
+Date:   Tue Aug 20 16:16:09 2019 -0500
+
+    Update submission instructions on firstChallenge
+    
+    Signed-off-by: Obed N Munoz <obed.n.munoz@gmail.com>
+
+[33mcommit 1dfd7b89d65f25b90820ccf73a714d9d1145cefe[m
+Author: Obed N Munoz <obed.n.munoz@gmail.com>
+Date:   Tue Aug 20 15:09:18 2019 -0500
+
+    Add word reverser lab
+    
+    Signed-off-by: Obed N Munoz <obed.n.munoz@gmail.com>
+
+[33mcommit 1fe4096fd138da6e946dc0f34b1bf50110934cc1[m[33m ([m[1;31morigin/2019.1[m[33m)[m
+Author: Obed N Munoz <obed.n.munoz@gmail.com>
+Date:   Tue Aug 13 16:06:16 2019 -0500
+
+    Update Classify endpoint
+    
+    Signed-off-by: Obed N Munoz <obed.n.munoz@gmail.com>
+
+[33mcommit 9de3b8f121ebb377b86b3792175f93b5cf5ffa8b[m
+Author: Obed N Munoz <obed.n.munoz@gmail.com>
+Date:   Tue Aug 13 13:56:30 2019 -0500
+
+    Update classify instructions
+    
+    Signed-off-by: Obed N Munoz <obed.n.munoz@gmail.com>
+
+[33mcommit f03357c987e1f3554f11cc3c073ef045e547a2b2[m
+Author: Obed N Munoz <obed.n.munoz@gmail.com>
+Date:   Tue Apr 30 23:13:37 2019 -0500
+
+    Add grand prix simulator challenge
+    
+    Signed-off-by: Obed N Munoz <obed.n.munoz@gmail.com>
+
+[33mcommit 39ea9ca90ecde977a7dbb855364d5dc64031b9d4[m
+Author: Obed N Munoz <obed.n.munoz@gmail.com>
+Date:   Tue Apr 30 19:27:40 2019 -0500
+
+    Add first problem solutions for pi
+    
+    Signed-off-by: Obed N Munoz <obed.n.munoz@gmail.com>
+
+[33mcommit def6567cae56d667cfdc9e5a94b574a31a7b7943[m
+Author: Obed N Munoz <obed.n.munoz@gmail.com>
+Date:   Tue Apr 30 17:12:24 2019 -0500
+
+    Add raining simulator challenge
+    
+    Signed-off-by: Obed N Munoz <obed.n.munoz@gmail.com>
+
+[33mcommit 5fef4e55f98ff60b29c76a11219114a1aec2a7d2[m
+Author: Obed N Munoz <obed.n.munoz@gmail.com>
+Date:   Mon Apr 29 23:34:14 2019 -0500
+
+    Add earthquake simulator challenge
+    
+    Signed-off-by: Obed N Munoz <obed.n.munoz@gmail.com>
+
+[33mcommit ce9c536a6822dac79806e86935468b8b30a24af4[m
+Author: Obed N Munoz <obed.n.munoz@gmail.com>
+Date:   Mon Apr 29 23:07:28 2019 -0500
+
+    Add  City Traffic Challenge
+    
+    Signed-off-by: Obed N Munoz <obed.n.munoz@gmail.com>
+
+[33mcommit 850e8e29e7859fc89e908121bc05ebebd01ee5ff[m
+Author: Obed N Munoz <obed.n.munoz@gmail.com>
+Date:   Mon Apr 29 22:49:57 2019 -0500
+
+    Add snakes challenge
+    
+    Signed-off-by: Obed N Munoz <obed.n.munoz@gmail.com>
+
+[33mcommit e8da53a412c9ac652b5b61254681cb55a1b51a18[m
+Author: Obed N Munoz <obed.n.munoz@gmail.com>
+Date:   Mon Apr 29 22:31:48 2019 -0500
+
+    Add Space Invaders challenge game
+    
+    Signed-off-by: Obed N Munoz <obed.n.munoz@gmail.com>
+
+[33mcommit 28d12af7c221520018777529e32423810186fe09[m
+Author: Obed N Munoz <obed.n.munoz@gmail.com>
+Date:   Mon Apr 29 22:08:45 2019 -0500
+
+    Add pacman challenge's description
+    
+    Signed-off-by: Obed N Munoz <obed.n.munoz@gmail.com>
+
+[33mcommit dd71e4e8c657d337d390f9795f402498fdbd37aa[m
+Author: Obed N Munoz <obed.n.munoz@gmail.com>
+Date:   Mon Apr 22 23:46:49 2019 -0500
+
+    Update simple pi compute exercices
+    
+    Signed-off-by: Obed N Munoz <obed.n.munoz@gmail.com>
+
+[33mcommit 3d8c7055be0ab27ba85b0fd5dcbbc4f689ff6d40[m
+Author: Obed N Munoz <obed.n.munoz@gmail.com>
+Date:   Mon Apr 22 23:11:01 2019 -0500
+
+    Add lab5.1
+    
+    Signed-off-by: Obed N Munoz <obed.n.munoz@gmail.com>
+
+[33mcommit aeb18134c8d1afc29c9cc151df7e64116b3e1eba[m
+Author: Obed N Munoz <obed.n.munoz@gmail.com>
+Date:   Thu Apr 18 17:21:07 2019 -0500
+
+    Fix instructions in lab 4.2
+    
+    Signed-off-by: Obed N Munoz <obed.n.munoz@gmail.com>
+
+[33mcommit 329599c96ca167d6395df480cf82910bfd5ed9da[m
+Author: Obed N Munoz <obed.n.munoz@gmail.com>
+Date:   Fri Apr 5 11:07:16 2019 -0600
+
+    Update multiplicator instructions
+    
+    Signed-off-by: Obed N Munoz <obed.n.munoz@gmail.com>
+
+[33mcommit 78f629cfcd3a76dad7d7fb3990e58df166507519[m
+Author: Obed N Munoz <obed.n.munoz@gmail.com>
+Date:   Tue Apr 2 21:16:41 2019 -0600
+
+    Fix library flags
+    
+    Signed-off-by: Obed N Munoz <obed.n.munoz@gmail.com>
+
+[33mcommit f2972a481e43a467535e7cbdc6fb8b34daacdae3[m
+Author: Obed N Munoz <obed.n.munoz@gmail.com>
+Date:   Tue Apr 2 15:20:15 2019 -0600
+
+    Add lab4.2 and update global classify details
+    
+    Signed-off-by: Obed N Munoz <obed.n.munoz@gmail.com>
+
+[33mcommit 4b04c223519714813e7f20f5a973841a23cb0951[m
+Author: Obed N Munoz <obed.n.munoz@gmail.com>
+Date:   Tue Apr 2 13:49:33 2019 -0600
+
+    Add lab4.1
+    
+    Signed-off-by: Obed N Munoz <obed.n.munoz@gmail.com>
+
+[33mcommit 9e1fad5b1fdc03a2d8c466fbf062c561910751db[m
+Author: Obed N Munoz <obed.n.munoz@gmail.com>
+Date:   Thu Mar 28 17:09:53 2019 -0600
+
+    Fix ambiguous reference
+    
+    Signed-off-by: Obed N Munoz <obed.n.munoz@gmail.com>
+
+[33mcommit 6779d9562f960b4633d6c4c507ca12a4efb5e935[m
+Author: Obed N Munoz <obed.n.munoz@gmail.com>
+Date:   Tue Mar 26 18:26:15 2019 -0600
+
+    Add challenge 3
+    
+    Signed-off-by: Obed N Munoz <obed.n.munoz@gmail.com>
+
+[33mcommit 9742642b726ab7eae1ff01ac720cce582f3c4a1d[m
+Author: Obed N Munoz <obed.n.munoz@gmail.com>
+Date:   Sun Mar 17 22:57:39 2019 -0600
+
+    Update submission instructions in lab3.1
+    
+    Signed-off-by: Obed N Munoz <obed.n.munoz@gmail.com>
+
+[33mcommit e661b12b95dea3c38cc6f69ac9330507797fea5f[m
+Author: Obed N Munoz <obed.n.munoz@gmail.com>
+Date:   Sat Mar 16 23:58:01 2019 -0600
+
+    Update Submission instructions
+    
+    Signed-off-by: Obed N Munoz <obed.n.munoz@gmail.com>
+
+[33mcommit 95e9a0b901680b83060dff2e0702fa9ab03550be[m
+Author: Obed N Munoz <obed.n.munoz@gmail.com>
+Date:   Tue Mar 12 16:17:14 2019 -0600
+
+    Add lab 3.2
+    
+    Signed-off-by: Obed N Munoz <obed.n.munoz@gmail.com>
+
+[33mcommit be7bbb6c6501062cc51d1440452ea83f061b7c06[m
+Author: Obed N Munoz <obed.n.munoz@gmail.com>
+Date:   Tue Mar 5 15:36:53 2019 -0600
+
+    Update READMEs
+    
+    Signed-off-by: Obed N Munoz <obed.n.munoz@gmail.com>
+
+[33mcommit fec7e4c3079da4fff473fbe4f4b52a765dc9f17e[m
+Author: Obed N Munoz <obed.n.munoz@gmail.com>
+Date:   Mon Mar 4 23:07:33 2019 -0600
+
+    Add lab 3.1
+    
+    Signed-off-by: Obed N Munoz <obed.n.munoz@gmail.com>
+
+[33mcommit 87fef7d7616e1ac5ab0b5d4a11f50d30335b0372[m
+Author: Obed N Munoz <obed.n.munoz@gmail.com>
+Date:   Mon Mar 4 21:48:16 2019 -0600
+
+    Add submission details
+    
+    Signed-off-by: Obed N Munoz <obed.n.munoz@gmail.com>
+
+[33mcommit 755667fe9e8efe2d2bdab66f41a86943899198df[m
+Author: Obed N Munoz <obed.n.munoz@gmail.com>
+Date:   Mon Mar 4 20:34:51 2019 -0600
+
+    Add 2 new labs
+    
+    Signed-off-by: Obed N Munoz <obed.n.munoz@gmail.com>
+
+[33mcommit d36dc426dc2ca3c5083453156e766edcbae70e49[m
+Author: Obed N Munoz <obed.n.munoz@gmail.com>
+Date:   Mon Feb 25 20:29:33 2019 -0600
+
+    Update comment in 2.3
+    
+    Signed-off-by: Obed N Munoz <obed.n.munoz@gmail.com>
+
+[33mcommit 48118c83e1c09a9ae31d397df77cda4470d82dc8[m
+Author: Obed N Munoz <obed.n.munoz@gmail.com>
+Date:   Fri Feb 22 10:58:22 2019 -0600
+
+    Update lab2.1
+    
+    Signed-off-by: Obed N Munoz <obed.n.munoz@gmail.com>
+
+[33mcommit 9cac70f164d58475b1707342af0f14b7e56afe71[m
+Author: Obed N Munoz <obed.n.munoz@gmail.com>
+Date:   Tue Feb 19 16:11:05 2019 -0600
+
+    Add 2 new labs
+    
+    Signed-off-by: Obed N Munoz <obed.n.munoz@gmail.com>
+
+[33mcommit cd20be2e5fba0e6e3ec31a391b187670775765e2[m
+Author: Obed N Munoz <obed.n.munoz@gmail.com>
+Date:   Tue Feb 19 12:37:07 2019 -0600
+
+    Add Lab2.1
+    
+    Signed-off-by: Obed N Munoz <obed.n.munoz@gmail.com>
+
+[33mcommit 1bb9289f4f8a6d1060f491e5536142b6e1ed52fe[m
+Author: Obed N Munoz <obed.n.munoz@gmail.com>
+Date:   Tue Feb 12 23:20:13 2019 -0600
+
+    Update challenge 2 instructions
+    
+    Signed-off-by: Obed N Munoz <obed.n.munoz@gmail.com>
+
+[33mcommit ac20135bf35a25b43d7a3f279c302e2b5b3fe3a8[m
+Author: Obed N Munoz <obed.n.munoz@gmail.com>
+Date:   Tue Feb 12 22:24:24 2019 -0600
+
+    Update README.md
+    
+    Signed-off-by: Obed N Munoz <obed.n.munoz@gmail.com>
+
+[33mcommit c7ded210e4f1185189608d55fb62298f3a60da41[m
+Author: Obed N Munoz <obed.n.munoz@gmail.com>
+Date:   Tue Feb 12 20:45:45 2019 -0600
+
+    Remove permission denied case 2
+    
+    Signed-off-by: Obed N Munoz <obed.n.munoz@gmail.com>
+
+[33mcommit cb9298faaf7061aa0c54be76483fad76cfff2be7[m
+Author: Obed N Munoz <obed.n.munoz@gmail.com>
+Date:   Tue Feb 12 20:44:55 2019 -0600
+
+    Remove permission denied case
+    
+    Signed-off-by: Obed N Munoz <obed.n.munoz@gmail.com>
+
+[33mcommit 9fbaf05cb4edbe46e2059ca133427ec994b0a1eb[m
+Author: Obed N Munoz <obed.n.munoz@gmail.com>
+Date:   Tue Feb 12 20:30:43 2019 -0600
+
+    Update challenge 2
+    
+    Signed-off-by: Obed N Munoz <obed.n.munoz@gmail.com>
+
+[33mcommit 16936d0cb19acd61a85e8166f0004580c5462168[m
+Author: Obed N Munoz <obed.n.munoz@gmail.com>
+Date:   Tue Feb 12 18:42:06 2019 -0600
+
+    Add second challenge
+    
+    Signed-off-by: Obed N Munoz <obed.n.munoz@gmail.com>
+
+[33mcommit 1b91755ccef5aa395726da571fd44114004f72a6[m
+Author: Obed N Munoz <obed.n.munoz@gmail.com>
+Date:   Mon Feb 11 22:53:53 2019 -0600
+
+    Ignore .patch file
+    
+    Signed-off-by: Obed N Munoz <obed.n.munoz@gmail.com>
+
+[33mcommit 655f23b4fe4295e4f4364b81ac6ade3125f6cfc2[m
+Author: Obed N Munoz <obed.n.munoz@gmail.com>
+Date:   Sun Feb 10 23:55:22 2019 -0600
+
+    Add first term exam challenge
+    
+    Signed-off-by: Obed N Munoz <obed.n.munoz@gmail.com>
+
+[33mcommit 87f289fd0e750c9a87a4156041517a11d616ce33[m
+Author: Obed N Munoz <obed.n.munoz@gmail.com>
+Date:   Thu Feb 7 21:27:59 2019 -0600
+
+    Add lab1.2
+    
+    Signed-off-by: Obed N Munoz <obed.n.munoz@gmail.com>
+
+[33mcommit 12915b3856a4bd509c5b81ec10e7e0d08c76effe[m
+Author: Obed N Munoz <obed.n.munoz@gmail.com>
+Date:   Tue Feb 5 17:20:27 2019 -0600
+
+    Add lab1.1
+    
+    Signed-off-by: Obed N Munoz <obed.n.munoz@gmail.com>
+
+[33mcommit 4d387d0b507ded6d792afe5f7f858d71f264e8fa[m
+Author: Obed N Munoz <obed.n.munoz@gmail.com>
+Date:   Mon Feb 4 21:12:19 2019 -0600
+
+    Initial Commit
+    
+    Signed-off-by: Obed N Munoz <obed.n.munoz@gmail.com>
