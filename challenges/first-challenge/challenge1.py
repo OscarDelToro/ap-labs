@@ -1,4 +1,4 @@
-L = ['a', 'b', ['cc', 'dad', ['eeoo', 'fiction']], 'g', 'hi']
+L = ['a', 'b', 't',['cc', 'dad', ['eeoo', 'fiction']], 'g', 'hi']
 b=[1,4,'b','hola',[[[1,5,8,[23,56,[1]]]]]]
 
 def deplen(a):
