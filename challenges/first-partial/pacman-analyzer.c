@@ -35,6 +35,7 @@ int main(int argc, char **argv) {
     return 0; 
 }
 
+<<<<<<< HEAD
 void analizeLog(char *logFile, char *report) {
     printf("\033[94mGenerating Report from: \033[95m[%s] \033[94mlog file\033[0m\n", logFile);
     fileDescriptor = open(logFile,O_RDONLY);
@@ -50,6 +51,11 @@ void analizeLog(char *logFile, char *report) {
         printf("\033[91mError: Could not open the file \033[1m[%s]\033[0m\n",logFile);
         return;
         //exit(1); linea comentada para que el test automatico continue
+=======
+    if (argc < 2) {
+	printf("Usage:./pacman-analizer.o \n");
+	return 1;
+>>>>>>> 3c7816896f28c9ccb7bce4a5db3218f5f37ff5de
     }
     while(read(fileDescriptor, &buffer, 1)){
         if (buffer == '\n'){
