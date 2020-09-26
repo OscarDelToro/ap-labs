@@ -78,6 +78,7 @@ func (path Path) Distance() float64 {
 }
 
 func main() {
+<<<<<<< HEAD
 	sides, a := strconv.Atoi(os.Args[1])
 	if a != nil {
 		fmt.Println(a)
@@ -129,6 +130,8 @@ func printPerimeter(vert Path){
 
 func rando(min, max float64) float64 {
 	return min + rand.Float64() * (max + 1 - min)
+=======
+>>>>>>> e54a17263289e7fa9d505a09cde1526ec84079a5
 }
 
 //!-path
