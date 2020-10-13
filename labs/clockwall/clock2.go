@@ -6,12 +6,15 @@ import (
 	"log"
 	"net"
 	"time"
+	"fmt"
+	"os"
+	"flag"
 )
 
-func handleConn(c net.Conn) {
+func connectionHandler(c net.Conn, location *time.Location) {
 	defer c.Close()
 	for {
-		_, err := io.WriteString(c, time.Now().Format("15:04:05\n"))
+		_, err := io.WriteString(c, fmt.Sprintf("%s \t: %s\n",location,time.Now().In(location).Format("15:04:05\n")))
 		if err != nil {
 			return // e.g., client disconnected
 		}
@@ -20,7 +23,16 @@ func handleConn(c net.Conn) {
 }
 
 func main() {
-	listener, err := net.Listen("tcp", "localhost:9090")
+	port := flag.String("port","8080","TCP port")
+	flag.Parse()
+	timeZone := os.Getenv("TZ")
+	
+	location, err := time.LoadLocation(timeZone)
+	if err != nil{
+		log.Fatal(err)
+	}
+
+	listener, err := net.Listen("tcp", "localhost:"+*port)
 	if err != nil {
 		log.Fatal(err)
 	}
@@ -30,6 +42,6 @@ func main() {
 			log.Print(err) // e.g., connection aborted
 			continue
 		}
-		go handleConn(conn) // handle connections concurrently
+		go connectionHandler(conn, location) // handle connections concurrently
 	}
 }
