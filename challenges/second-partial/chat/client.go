@@ -15,24 +15,36 @@ import (
 
 //!+
 func main() {
-	conn, err := net.Dial("tcp", "localhost:8000")
+	conn, err := net.Dial("tcp", os.Args[4])
 	if err != nil {
 		log.Fatal(err)
 	}
 	done := make(chan struct{})
+	_, e := io.WriteString(conn, os.Args[2]+"\n")
+	if e != nil {
+		log.Fatal(err)
+	}
 	go func() {
 		io.Copy(os.Stdout, conn) // NOTE: ignoring errors
+
 		log.Println("done")
 		done <- struct{}{} // signal the main goroutine
 	}()
 	mustCopy(conn, os.Stdin)
+
 	conn.Close()
 	<-done // wait for background goroutine to finish
 }
 
 //!-
 
+/* enviar esta secuencia como unicast a quien envia el mensaje para desaparecer la linea donde escribe el mensaje
+fmt.Print("\033[A")
+	fmt.Printf("\r")
+*/
+
 func mustCopy(dst io.Writer, src io.Reader) {
+
 	if _, err := io.Copy(dst, src); err != nil {
 		log.Fatal(err)
 	}
