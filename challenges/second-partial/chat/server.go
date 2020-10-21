@@ -83,10 +83,9 @@ func broadcaster() {
 						}
 						if alias[remitent].RemoteAddr().String() == admin {
 							kick(messageInfo[1])
+
 							for cli := range clients {
-
 								cli <- "[" + messageInfo[1] + "] was kicked "
-
 							}
 						}
 					}
@@ -128,12 +127,16 @@ func broadcaster() {
 }
 func showUsers(to string) { //shows users to the one requesting at to
 	for usr := range alias {
-		sendPrivateMessage("irc-server", to, usr+" - connected since "+connectionLog[usr])
+		sendPrivateMessage("irc-server", to, usr+" - connected since "+connectionLog[usr]+"\n")
 	}
 
 }
 func showTime(to string) { //shows time to the one requesting at to
-	time := time.Now()
+	location, err := time.LoadLocation("America/Mexico_City")
+	if err != nil {
+		panic(err)
+	}
+	time := time.Now().In(location)
 	sendPrivateMessage("irc-server", to, "Local Time: "+time.Location().String()+time.Format(" 15:04"))
 
 }
@@ -159,6 +162,7 @@ func sendPrivateMessage(from, to, message string) { //send private messages
 	ch := make(chan string)
 	go clientWriter(alias[to], ch)
 	ch <- from + " > " + message
+	close(ch)
 	return
 
 }
@@ -204,6 +208,7 @@ func handleConn(conn net.Conn) {
 
 	leaving <- ch
 	//messages <- who + " has left"
+
 	messages <- "irc-server > " + users[who] + " left the channel"
 	fmt.Printf("irc-server > [%s] left\n", users[who])
 
