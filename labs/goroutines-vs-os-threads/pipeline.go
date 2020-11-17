@@ -2,6 +2,7 @@ package main
 
 import (
 	"fmt"
+<<<<<<< HEAD
 	"runtime"
 	"time"
 )
@@ -47,4 +48,13 @@ func main() {
 	transitTime = int(time.Since(startTime).Milliseconds())
 	fmt.Println("Maximum number of pipeline stages   : ", maxStages)
 	fmt.Printf("Time to transit trough the pipeline :  %d milliseconds\n", transitTime)
+=======
+)
+
+func main() {
+	var maxStages, transitTime int
+
+	fmt.Println("Maximum number of pipeline stages   : ", maxStages)
+	fmt.Println("Time to transit trough the pipeline : ", transitTime)
+>>>>>>> d539e0a3d167b4cbf2b238ba00a8dd1c1285187d
 }
