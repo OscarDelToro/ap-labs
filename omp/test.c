@@ -21,7 +21,7 @@ double step;
 int main ()
 {
     int section_threads;
-    double pi, sum = 0.0;
+    double x, pi, sum = 0.0;
     double start_time, run_time;
     double sum_array[4];
 

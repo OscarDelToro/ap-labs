@@ -2,7 +2,6 @@ package main
 
 import (
 	"fmt"
-<<<<<<< HEAD
 	"time"
 )
 
@@ -26,12 +25,4 @@ func main() {
 	commsPerSecond = <-a / duration
 	fmt.Println("Communications Per Second : ", commsPerSecond)
 
-=======
-)
-
-func main() {
-	var commsPerSecond int
-
-	fmt.Println("Communications Per Second : ", commsPerSecond)
->>>>>>> d539e0a3d167b4cbf2b238ba00a8dd1c1285187d
 }
