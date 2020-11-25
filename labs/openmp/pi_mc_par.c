@@ -100,7 +100,6 @@ int main ()
 
     seed(-r, r);  // The circle and square are centered at the origin
 
-    double rr=r*r; //made this one to avoid a recurrent operation  with the same result
 
     #pragma omp parallel
     {
@@ -109,13 +108,10 @@ int main ()
             {
                 x = random();
                 y = random();
-
                 test = x*x + y*y;
-                
                 if (test <= r*r){
                 #pragma omp critical  
                     Ncirc=Ncirc+1;
-
                 }
             }
     }
