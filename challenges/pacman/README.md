@@ -1,7 +1,13 @@
 ## PACMAN
 Authors:
+===========
 Francisco Mariano Amézquita Ramos
+
 Oscar Ernesto Del Toro Mendoza 
+
+for your confort, you can clone this project from this repository:
+https://github.com/OscarDelToro/pacman
+
 
 
 Assumptions: 
